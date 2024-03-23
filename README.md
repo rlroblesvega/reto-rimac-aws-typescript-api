@@ -14,5 +14,5 @@ Depending on your preferred package manager, follow the instructions below to de
 
 - Run `npm install` to install the project dependencies
 - Run `sls dynamodb install` to install DynamoDB in local
-- Run `npm run start` to deploy this stack to AWS
+- Run `npm run start` to run this stack in local
 - Run `npm run deploy` to deploy this stack to AWS
